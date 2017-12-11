@@ -14,7 +14,8 @@ name = input ("name")
 
 print(name)
 
-
+# RCH: Please change this so that the user is only asked for their password if
+# the name is correct. See me if you need help.
 _password_ = input ("What is the password")
 
 if name == login:
